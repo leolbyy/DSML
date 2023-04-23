@@ -1,0 +1,7 @@
+One drawback of pickle file is that it is not a universal file format, which means that it is not easy for other programming languages to use it.
+he TXT and CSV files could be easily shared with other colleagues who are not use Python, and they could open it using R, Matlab, Java and so on. But for pickle file, it is specially designed for Python, therefore, not easy to use the data with other languages.
+We talked about saving data into text file or csv file.
+This is where pickle comes in, it can serialize objects so that they can be saved into a file and loaded again later.
+Second, the splitting mechanism for decision trees aims to separate the input space as well as the
+training samples according to a single loss function, which could not be applied directly to multitask learning where there are multiple losses.
+In case of a classification task, the overall result is determined by taking a majority vote among the results of all decision trees.

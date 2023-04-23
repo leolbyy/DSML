@@ -1,0 +1,5 @@
+The goal is to minimize the errors of previous tree. Thus, each tree fits to the residuals from the previous one.
+Bootstrapping is a concept in statistics. It basically means selecting a random sample from the data. Each sample is called a bootstrap sample.
+In a random forest, if we do not use bootstrapping, each decision tree is fit to the entire dataset.
+The success of a random forest model highly depends on using uncorrelated decision trees.The overall model is progressively improved by adding new trees. The focus of each tree is different. Thus, there is no need for creating subsamples from the dataset.
+We expect to have a generalized model at some point. After that, each addition covers a detail or noise in the training data. Thus, adding too many trees in GBDT will cause overfitting.

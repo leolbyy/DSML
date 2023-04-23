@@ -1,0 +1,101 @@
+Q1: Yes
+
+
+Q2:
+SELECT month
+    , year
+    , sales_volume
+    , RANK() OVER(PARTITION BY year ORDER BY sales_volume DESC) Rank
+FROM q2
+ORDER BY sales_volume DESC;
+
+
+Q3:
+(1):
+30001, 30001
+30010, 30011
+30011, 30010
+(2):
+nothing left
+
+
+Q4:
+(1):
+CREATE TABLE booking(
+    sid int not null,
+    rid int not null,
+    day datetime not null,
+    primary key(sid, rid, day),
+    foreign key (sid) references staff,
+    foreign key (rid) references room
+);
+
+(2):
+12 rows
+
+(3):
+SELECT sid
+FROM booking
+GROUP BY sid
+HAVING (COUNT(DISTINCT rid) = 3)
+
+
+Q5:
+(1): B no
+(2): B no
+(3): B no
+(4): B 4
+(5): A 21
+(6.1): C 150
+(6.2): A 100
+
+
+Q6:
+candidate keys: JXY, KXY, ZXY
+reason: nothing can imply X and Y, so XY must be part of candidate key. XY itself is not a candidate key as it cannot imply JKZ. By induction, we find that JXY, KXY, ZXY are super keys and as they are minimal, they all all candidate keys.
+
+SELECT COUNT(DISTINCT K) AS value_count
+FROM R
+GROUP BY J
+ORDER BY value_count DESC
+LIMIT 1
+
+if the selected value is 1, then the FD holds. Otherwise the FD does not hold. (We do not consider the case that all K are null values)
+
+
+Q7:
+(1):
+closure of X: {A, B, C, D, E, G, H}
+X is in BCNF.
+
+(2):
+(a) the decomposition is not dependency-preserving. For example, the functional dependency AB -> C is not preserved in such decomposition.
+(b) the decomposition is not lossless. Take AB and BC as example, the interesct attribute is B, which is not a key in either AB and BC. Therefore, the decomposition is not lossless.
+
+
+Q8:
+<!DOCTYPE NewWear[
+    <!ELEMENT Group(Kind)>
+    <!ATTLIST Group
+        group_id ID #REQUIRED>
+    <!ELEMENT Kind((Price | Colors | Sizes)+, (Types)*)>
+    <!ATTLIST Kind
+        kind_name ID #REQUIRED>
+    <!ELEMENT Price (#PCDATA)>
+    <!ELEMENT Colors (#PCDATA)>
+    <!ELEMENT Sizes (#PCDATA)>
+    <!ELEMENT Types (#PCDATA)>
+]>
+
+for $k in /NewWear//Kind
+where $k/Price = {fn:max(for $i in /NewWear//Price return $i)}
+return
+    <Kind>
+        {$k/*}
+    </Kind>
+
+
+Q9:
+(1): E
+(2): D
+(3): B

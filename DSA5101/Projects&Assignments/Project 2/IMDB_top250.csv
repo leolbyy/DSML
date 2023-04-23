@@ -1,0 +1,251 @@
+,rank,title,poster,duration,grading
+0,1,The Shawshank Redemption,"https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 22m,NC-16
+1,2,The Godfather,"https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR4,0,190,281_.jpg",2h 55m,M18
+2,3,The Dark Knight,"https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 32m,PG13
+3,4,The Godfather: Part II,"https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR4,0,190,281_.jpg",3h 22m,PG
+4,5,12 Angry Men,"https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,6,190,281_.jpg",1h 36m,PG
+5,6,Schindler's List,"https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",3h 15m,PG13
+6,7,The Lord of the Rings: The Return of the King,"https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg",3h 21m,PG13
+7,8,Pulp Fiction,"https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR2,0,190,281_.jpg",2h 34m,R21
+8,9,The Lord of the Rings: The Fellowship of the Ring,"https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 58m,PG13
+9,10,"The Good, the Bad and the Ugly","https://m.media-amazon.com/images/M/MV5BNjJlYmNkZGItM2NhYy00MjlmLTk5NmQtNjg1NmM2ODU4OTMwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 41m,PG
+10,11,Forrest Gump,"https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR2,0,190,281_.jpg",2h 22m,PG13
+11,12,Fight Club,"https://m.media-amazon.com/images/M/MV5BNDIzNDU0YzEtYzE5Ni00ZjlkLTk5ZjgtNjM3NWE4YzA3Nzk3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 19m,M18
+12,13,Inception,"https://m.media-amazon.com/images/M/MV5BMTFkMjJiN2UtODNjZC00OWY0LTk0NTAtZDg5OTA2OTNjMzIzXkEyXkFqcGdeQXVyMjg1NDcxNDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 28m,PG
+13,14,The Lord of the Rings: The Two Towers,"https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,7,190,281_.jpg",2h 59m,PG13
+14,15,Star Wars: Episode V - The Empire Strikes Back,"https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,7,190,281_.jpg",2h 4m,PG
+15,16,The Matrix,"https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 16m,PG
+16,17,Goodfellas,"https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 25m,M18
+17,18,One Flew Over the Cuckoo's Nest,"https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 13m,PG
+18,19,Se7en,"https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,8,190,281_.jpg",2h 7m,PG
+19,20,Shichinin no samurai,"https://m.media-amazon.com/images/M/MV5BNWQ3OTM4ZGItMWEwZi00MjI5LWI3YzgtNTYwNWRkNmIzMGI5XkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UY281_CR5,0,190,281_.jpg",3h 27m,PG
+20,21,It's a Wonderful Life,"https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY281_CR2,0,190,281_.jpg",2h 10m,PG
+21,22,The Silence of the Lambs,"https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR0,0,190,281_.jpg",1h 58m,PG
+22,23,City of God,"https://m.media-amazon.com/images/M/MV5BOTMwYjc5ZmItYTFjZC00ZGQ3LTlkNTMtMjZiNTZlMWQzNzI5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,1,190,281_.jpg",2h 10m,M18
+23,24,Saving Private Ryan,"https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY281_CR1,0,190,281_.jpg",2h 49m,NC-16
+24,25,Life Is Beautiful,"https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 56m,PG
+25,26,Interstellar,"https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 49m,PG13
+26,27,The Green Mile,"https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX190_CR0,0,190,281_.jpg",3h 9m,R(A)
+27,28,Star Wars,"https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX190_CR0,5,190,281_.jpg",2h 1m,PG
+28,29,Terminator 2: Judgment Day,"https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 17m,PG
+29,30,Back to the Future,"https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,7,190,281_.jpg",1h 56m,PG
+30,31,Spirited Away,"https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 5m,PG
+31,32,Psycho,"https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 49m,PG
+32,33,The Pianist,"https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR7,0,190,281_.jpg",2h 30m,PG
+33,34,Parasite,"https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 12m,M18
+34,35,Léon,"https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 50m,PG
+35,36,The Lion King,"https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 28m,PG
+36,37,Gladiator,"https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 35m,NC16
+37,38,American History X,"https://m.media-amazon.com/images/M/MV5BZTJhN2FkYWEtMGI0My00YWM4LWI2MjAtM2UwNjY4MTI2ZTQyXkEyXkFqcGdeQXVyNjc3MjQzNTI@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 59m,PG
+38,39,The Departed,"https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 31m,M18
+39,40,The Usual Suspects,"https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 46m,PG
+40,41,The Prestige,"https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 10m,PG
+41,42,Casablanca,"https://m.media-amazon.com/images/M/MV5BY2IzZGY2YmEtYzljNS00NTM5LTgwMzUtMzM1NjQ4NGI0OTk0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UX190_CR0,3,190,281_.jpg",1h 42m,PG
+42,43,Whiplash,"https://m.media-amazon.com/images/M/MV5BOTA5NDZlZGUtMjAxOS00YTRkLTkwYmMtYWQ0NWEwZDZiNjEzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 46m,NC16
+43,44,The Intouchables,"https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 52m,NC-16
+44,45,Harakiri,"https://m.media-amazon.com/images/M/MV5BYjBmYTQ1NjItZWU5MS00YjI0LTg2OTYtYmFkN2JkMmNiNWVkXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_QL75_UY281_CR9,0,190,281_.jpg",2h 13m,
+45,46,Grave of the Fireflies,"https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 29m,PG
+46,47,Modern Times,"https://m.media-amazon.com/images/M/MV5BYjJiZjMzYzktNjU0NS00OTkxLWEwYzItYzdhYWJjN2QzMTRlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,7,190,281_.jpg",1h 27m,PG
+47,48,C'era una volta il West,"https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,1,190,281_.jpg",2h 45m,PG
+48,49,Rear Window,"https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR1,0,190,281_.jpg",1h 52m,PG
+49,50,City Lights,"https://m.media-amazon.com/images/M/MV5BY2I4MmM1N2EtM2YzOS00OWUzLTkzYzctNDc5NDg2N2IyODJmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 27m,
+50,51,Alien,"https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,3,190,281_.jpg",1h 57m,PG13
+51,52,Nuovo Cinema Paradiso,"https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 35m,M18
+52,53,Apocalypse Now,"https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,5,190,281_.jpg",2h 27m,M18
+53,54,Memento,"https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR1,0,190,281_.jpg",1h 53m,PG
+54,55,Raiders of the Lost Ark,"https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_QL75_UY281_CR1,0,190,281_.jpg",1h 55m,PG
+55,56,Django Unchained,"https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 45m,M18
+56,57,WALL·E,"https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 38m,G
+57,58,Das Leben der Anderen,"https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,1,190,281_.jpg",2h 17m,M18
+58,59,Sunset Blvd.,"https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 50m,
+59,60,Paths of Glory,"https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_QL75_UX190_CR0,5,190,281_.jpg",1h 28m,
+60,61,The Shining,"https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h 26m,M18
+61,62,The Great Dictator,"https://m.media-amazon.com/images/M/MV5BMmExYWJjNTktNGUyZS00ODhmLTkxYzAtNWIzOGEyMGNiMmUwXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 5m,
+62,63,Witness for the Prosecution,"https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX190_CR0,5,190,281_.jpg",1h 56m,G
+63,64,Avengers: Infinity War,"https://m.media-amazon.com/images/M/MV5BZjE4ODNkNWItYjZmYy00ODQ4LTgzMjEtODQ2ZTM1YTU0MjcwXkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 29m,PG13
+64,65,Aliens,"https://m.media-amazon.com/images/M/MV5BZGU2OGY5ZTYtMWNhYy00NjZiLWI0NjUtZmNhY2JhNDRmODU3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,7,190,281_.jpg",2h 17m,NC16
+65,66,American Beauty,"https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 2m,M18
+66,67,Spider-Man: Into the Spider-Verse,"https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 57m,PG
+67,68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,7,190,281_.jpg",1h 35m,PG
+68,69,The Dark Knight Rises,"https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 44m,PG
+69,70,Oldboy,"https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h,R21
+70,71,Joker,"https://m.media-amazon.com/images/M/MV5BZDg5ZWFjNTQtZDA2YS00YWZkLWI2YjUtMzk2NWJkZTQ0ZDgwXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 2m,NC16
+71,72,Amadeus,"https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX190_CR0,7,190,281_.jpg",2h 40m,NC-16
+72,73,Toy Story,"https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 21m,G
+73,74,Braveheart,"https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 58m,M18
+74,75,Inglourious Basterds,"https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 33m,M18
+75,76,Coco,"https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_QL75_UY281_CR4,0,190,281_.jpg",1h 45m,PG
+76,77,Top Gun: Maverick,"https://m.media-amazon.com/images/M/MV5BM2I1MGZjY2QtYWJhZC00YTU3LTk1MzQtNjY0NTNlMWE2YWIyXkEyXkFqcGdeQXVyMTQyMTMwOTk0._V1_QL75_UX190_CR0,3,190,281_.jpg",2h 10m,PG13
+77,78,Das Boot,"https://m.media-amazon.com/images/M/MV5BNDBjMWUxNTUtNjZiNi00YzJhLTgzNzUtMTRiY2FkZmMzYTNjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX190_CR0,3,190,281_.jpg",2h 29m,M18
+78,79,Avengers: Endgame,"https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg",3h 1m,PG13
+79,80,Mononoke-hime,"https://m.media-amazon.com/images/M/MV5BNGIzY2IzODQtNThmMi00ZDE4LWI5YzAtNzNlZTM1ZjYyYjUyXkEyXkFqcGdeQXVyODEzNjM5OTQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 14m,G
+80,81,Once Upon a Time in America,"https://m.media-amazon.com/images/M/MV5BMGFkNWI4MTMtNGQ0OC00MWVmLTk3MTktOGYxN2Y2YWVkZWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,8,190,281_.jpg",3h 49m,M18
+81,82,Good Will Hunting,"https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h 6m,PG
+82,83,Kimi no na wa.,"https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 46m,PG
+83,84,Requiem for a Dream,"https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 42m,R21
+84,85,Toy Story 3,"https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY281_CR5,0,190,281_.jpg",1h 43m,PG
+85,86,Singin' in the Rain,"https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY281_CR1,0,190,281_.jpg",1h 43m,PG
+86,87,3 Idiots,"https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR3,0,190,281_.jpg",2h 50m,PG
+87,88,High and Low,"https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY281_CR4,0,190,281_.jpg",2h 23m,
+88,89,Star Wars: Episode VI - Return of the Jedi,"https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX190_CR0,7,190,281_.jpg",2h 11m,PG
+89,90,2001: A Space Odyssey,"https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 29m,PG
+90,91,Eternal Sunshine of the Spotless Mind,"https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 48m,NC-16
+91,92,Reservoir Dogs,"https://m.media-amazon.com/images/M/MV5BZmExNmEwYWItYmQzOS00YjA5LTk2MjktZjEyZDE1Y2QxNjA1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 39m,M18
+92,93,Capernaum,"https://m.media-amazon.com/images/M/MV5BY2Y3OWNkMTctYzNjYS00NWVkLTg4OWEtY2YxN2I3NDhlYzE0XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_QL75_UY281_CR4,0,190,281_.jpg",2h 6m,NC16
+93,94,The Hunt,"https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_QL75_UY281_CR4,0,190,281_.jpg",1h 55m,R21
+94,95,Citizen Kane,"https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 59m,PG
+95,96,Lawrence of Arabia,"https://m.media-amazon.com/images/M/MV5BYWY5ZjhjNGYtZmI2Ny00ODM0LWFkNzgtZmI1YzA2N2MxMzA0XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_QL75_UY281_CR3,0,190,281_.jpg",3h 38m,PG
+96,97,M - Eine Stadt sucht einen Mörder,"https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 57m,
+97,98,Idi i smotri,"https://m.media-amazon.com/images/M/MV5BNzU3OTI1MjItYTJiZC00NDI0LWFlNGYtOTQ1OTVhNDgwM2U3XkEyXkFqcGdeQXVyNTc2MDU0NDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 22m,PG
+98,99,North by Northwest,"https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 16m,PG
+99,100,Vertigo,"https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,6,190,281_.jpg",2h 8m,PG
+100,101,Le fabuleux destin d'Amélie Poulain,"https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 2m,M18
+101,102,A Clockwork Orange,"https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 16m,R21
+102,103,The Apartment,"https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX190_CR0,9,190,281_.jpg",2h 5m,PG
+103,104,Double Indemnity,"https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX190_CR0,3,190,281_.jpg",1h 47m,
+104,105,Full Metal Jacket,"https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 56m,M18
+105,106,Ikiru,"https://m.media-amazon.com/images/M/MV5BZTcyYmQ2NDMtNWI1NS00MTNiLTk0NDctNWMwNWExYTNlYzk3XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 23m,PG
+106,107,Hamilton,"https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 40m,NC16
+107,108,Scarface,"https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 50m,M18
+108,109,The Sting,"https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,5,190,281_.jpg",2h 9m,PG
+109,110,To Kill a Mockingbird,"https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h 9m,PG
+110,111,Heat,"https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR3,0,190,281_.jpg",2h 50m,NC-16
+111,112,Up,"https://m.media-amazon.com/images/M/MV5BMTk3NDE2NzI4NF5BMl5BanBnXkFtZTgwNzE1MzEyMTE@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 36m,PG
+112,113,Taxi Driver,"https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,4,190,281_.jpg",1h 54m,M18
+113,114,Incendies,"https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 11m,M18
+114,115,Metropolis,"https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 33m,PG
+115,116,Jodaeiye Nader az Simin,"https://m.media-amazon.com/images/M/MV5BN2JmMjViMjMtZTM5Mi00ZGZkLTk5YzctZDg5MjFjZDE4NjNkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 3m,PG
+116,117,L.A. Confidential,"https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR1,0,190,281_.jpg",2h 18m,R(A)
+117,118,Snatch,"https://m.media-amazon.com/images/M/MV5BMTA2NDYxOGYtYjU1Mi00Y2QzLTgxMTQtMWI1MGI0ZGQ5MmU4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UY281_CR1,0,190,281_.jpg",1h 44m,M18
+118,119,Ladri di biciclette,"https://m.media-amazon.com/images/M/MV5BNmI1ODdjODctMDlmMC00ZWViLWI5MzYtYzRhNDdjYmM3MzFjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR3,0,190,281_.jpg",1h 29m,PG
+119,120,Die Hard,"https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 12m,PG13
+120,121,Indiana Jones and the Last Crusade,"https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 7m,PG
+121,122,1917,"https://m.media-amazon.com/images/M/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_QL75_UX190_CR0,10,190,281_.jpg",1h 59m,PG13
+122,123,Taare Zameen Par,"https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR4,0,190,281_.jpg",2h 45m,G
+123,124,Downfall,"https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_QL75_UY281_CR1,0,190,281_.jpg",2h 36m,NC-16
+124,125,Per qualche dollaro in più,"https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,3,190,281_.jpg",2h 12m,PG
+125,126,Batman Begins,"https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 20m,PG13
+126,127,Dangal,"https://m.media-amazon.com/images/M/MV5BZDE4YzA3MGMtNmQ1ZS00NTkzLWFkYjQtMGQ2NDlhYTU4NjgxXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h 41m,PG
+127,128,The Kid,"https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 8m,G
+128,129,Some Like It Hot,"https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,6,190,281_.jpg",2h 1m,PG
+129,130,All About Eve,"https://m.media-amazon.com/images/M/MV5BMTY2MTAzODI5NV5BMl5BanBnXkFtZTgwMjM4NzQ0MjE@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 18m,
+130,131,The Father,"https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 37m,M18
+131,132,Green Book,"https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 10m,NC16
+132,133,The Wolf of Wall Street,"https://m.media-amazon.com/images/M/MV5BMjI3OTcxZDAtOTc5OS00ZmViLTk0YjctYzBjZDY4NTdiYzhkXkEyXkFqcGdeQXVyNDIyNjA2MTk@._V1_QL75_UX190_CR0,2,190,281_.jpg",3h,M18
+133,134,Judgment at Nuremberg,"https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 59m,
+134,135,Ran,"https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h 42m,PG13
+135,136,Casino,"https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 58m,M18
+136,137,El laberinto del fauno,"https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 58m,NC-16
+137,138,Unforgiven,"https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 10m,NC-16
+138,139,Spider-Man: No Way Home,"https://m.media-amazon.com/images/M/MV5BYjhhMjIwZjgtNGY2NS00ZjFlLTkxZWEtYzVjOGI4M2MxMjE3XkEyXkFqcGdeQXVyMTA3MDAxNDcw._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 28m,PG13
+139,140,There Will Be Blood,"https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 38m,PG
+140,141,The Truman Show,"https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 43m,PG
+141,142,The Sixth Sense,"https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_QL75_UY281_CR0,0,190,281_.jpg",1h 47m,PG13
+142,143,A Beautiful Mind,"https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 15m,PG13
+143,144,Yojimbo,"https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 50m,
+144,145,Monty Python and the Holy Grail,"https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 31m,PG13
+145,146,The Treasure of the Sierra Madre,"https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 6m,PG
+146,147,Shutter Island,"https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 18m,NC-16
+147,148,Jurassic Park,"https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 7m,PG
+148,149,Rashômon,"https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 28m,PG
+149,150,The Great Escape,"https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX190_CR0,8,190,281_.jpg",2h 52m,PG
+150,151,Kill Bill: Vol. 1,"https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 51m,M18
+151,152,No Country for Old Men,"https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UY281_CR1,0,190,281_.jpg",2h 2m,NC-16
+152,153,Finding Nemo,"https://m.media-amazon.com/images/M/MV5BZTAzNWZlNmUtZDEzYi00ZjA5LWIwYjEtZGM1NWE1MjE4YWRhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 40m,G
+153,154,The Elephant Man,"https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,1,190,281_.jpg",2h 4m,PG
+154,155,Chinatown,"https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,3,190,281_.jpg",2h 10m,NC-16
+155,156,Raging Bull,"https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UY281_CR1,0,190,281_.jpg",2h 9m,NC-16
+156,157,The Thing,"https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 49m,M18
+157,158,Gone with the Wind,"https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,5,190,281_.jpg",3h 58m,PG
+158,159,V for Vendetta,"https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 12m,M18
+159,160,Inside Out,"https://m.media-amazon.com/images/M/MV5BNGNiZDQzYWItNGM0ZC00ZjcyLTkyYzYtZjBiYWUyYTE4YWE5XkEyXkFqcGdeQXVyMTMzODk3NDU0._V1_QL75_UX190_CR0,28,190,281_.jpg",1h 35m,PG
+160,161,"Lock, Stock and Two Smoking Barrels","https://m.media-amazon.com/images/M/MV5BMTAyN2JmZmEtNjAyMy00NzYwLThmY2MtYWQ3OGNhNjExMmM4XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 47m,M18
+161,162,Dial M for Murder,"https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 45m,
+162,163,El secreto de sus ojos,"https://m.media-amazon.com/images/M/MV5BY2FhZGI5M2QtZWFiZS00NjkwLWE4NWQtMzg3ZDZjNjdkYTJiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR1,0,190,281_.jpg",2h 9m,M18
+163,164,Hauru no ugoku shiro,"https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 59m,PG
+164,165,The Bridge on the River Kwai,"https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX190_CR0,6,190,281_.jpg",2h 41m,PG
+165,166,"Three Billboards Outside Ebbing, Missouri","https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 55m,NC16
+166,167,Trainspotting,"https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 33m,R21
+167,168,Warrior,"https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_QL75_UX190_CR0,6,190,281_.jpg",2h 20m,PG13
+168,169,Gran Torino,"https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_QL75_UY281_CR0,0,190,281_.jpg",1h 56m,NC-16
+169,170,Fargo,"https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR0,0,190,281_.jpg",1h 38m,M18
+170,171,Prisoners,"https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 33m,NC-16
+171,172,Tonari no Totoro,"https://m.media-amazon.com/images/M/MV5BYzJjMTYyMjQtZDI0My00ZjE2LTkyNGYtOTllNGQxNDMyZjE0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR6,0,190,281_.jpg",1h 26m,G
+172,173,Million Dollar Baby,"https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_QL75_UY281_CR1,0,190,281_.jpg",2h 12m,PG
+173,174,Catch Me If You Can,"https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 21m,PG13
+174,175,The Gold Rush,"https://m.media-amazon.com/images/M/MV5BZjEyOTE4MzMtNmMzMy00Mzc3LWJlOTQtOGJiNDE0ZmJiOTU4L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY281_CR8,0,190,281_.jpg",1h 35m,
+175,176,Bacheha-Ye aseman,"https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,5,190,281_.jpg",1h 29m,PG
+176,177,Blade Runner,"https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 57m,NC-16
+177,178,On the Waterfront,"https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,3,190,281_.jpg",1h 48m,
+178,179,The Third Man,"https://m.media-amazon.com/images/M/MV5BYjE2OTdhMWUtOGJlMy00ZDViLWIzZjgtYjZkZGZmMDZjYmEyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 44m,
+179,180,12 Years a Slave,"https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 14m,M18
+180,181,Before Sunrise,"https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 41m,NC-16
+181,182,Smultronstället,"https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",1h 31m,PG
+182,183,Ben-Hur,"https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,3,190,281_.jpg",3h 32m,G
+183,184,Harry Potter and the Deathly Hallows: Part 2,"https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 10m,PG13
+184,185,The General,"https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 7m,
+185,186,Gone Girl,"https://m.media-amazon.com/images/M/MV5BYjgwY2E1N2QtNDJkMi00YzE4LThiYTItYWI5YmE4NWMzMGFhXkEyXkFqcGdeQXVyMjU3OTA4NzQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 29m,M18
+186,187,The Deer Hunter,"https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR1,0,190,281_.jpg",3h 3m,M18
+187,188,In the Name of the Father,"https://m.media-amazon.com/images/M/MV5BMmYyOTgwYWItYmU3Ny00M2E2LTk0NWMtMDVlNmQ0MWZiMTMxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,1,190,281_.jpg",2h 13m,PG
+188,189,The Grand Budapest Hotel,"https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 39m,M18
+189,190,Barry Lyndon,"https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",3h 5m,PG
+190,191,Le salaire de la peur,"https://m.media-amazon.com/images/M/MV5BMzE2ODNiZGItNGJiZS00MzBkLTgzZDktN2NmZGE0ZWU3N2U5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMzI4Nzk0NjY@._V1_QL75_UY281_CR8,0,190,281_.jpg",2h 11m,
+191,192,Sherlock Jr.,"https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX190_CR0,9,190,281_.jpg",45m,
+192,193,Mr. Smith Goes to Washington,"https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX190_CR0,3,190,281_.jpg",2h 9m,
+193,194,Memories of Murder,"https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 11m,PG
+194,195,Hacksaw Ridge,"https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX190_CR0,6,190,281_.jpg",2h 19m,M18
+195,196,Klaus,"https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 36m,PG
+196,197,Relatos salvajes,"https://m.media-amazon.com/images/M/MV5BNGQzY2Y0MTgtMDA4OC00NjM3LWI0ZGQtNTJlM2UxZDQxZjI0XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UY281_CR6,0,190,281_.jpg",2h 2m,M18
+197,198,Det sjunde inseglet,"https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UY281_CR2,0,190,281_.jpg",1h 36m,PG
+198,199,Room,"https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 58m,PG13
+199,200,Mad Max: Fury Road,"https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h,NC16
+200,201,Mary and Max.,"https://m.media-amazon.com/images/M/MV5BMDgzYjQwMDMtNGUzYi00MTRmLWIyMGMtNjE1OGZkNzY2YWIzL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR4,0,190,281_.jpg",1h 32m,NC-16
+201,202,How to Train Your Dragon,"https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 38m,PG
+202,203,The Big Lebowski,"https://m.media-amazon.com/images/M/MV5BMTQ0NjUzMDMyOF5BMl5BanBnXkFtZTgwODA1OTU0MDE@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 57m,M18
+203,204,Jaws,"https://m.media-amazon.com/images/M/MV5BMmVmODY1MzEtYTMwZC00MzNhLWFkNDMtZjAwM2EwODUxZTA5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX190_CR0,5,190,281_.jpg",2h 4m,PG13
+204,205,"Monsters, Inc.","https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 32m,G
+205,206,La passion de Jeanne d'Arc,"https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,8,190,281_.jpg",1h 50m,
+206,207,Tôkyô monogatari,"https://m.media-amazon.com/images/M/MV5BYWQ4ZTRiODktNjAzZC00Nzg1LTk1YWQtNDFmNDI0NmZiNGIwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY281_CR3,0,190,281_.jpg",2h 16m,PG
+207,208,Dead Poets Society,"https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 8m,PG13
+208,209,Hotel Rwanda,"https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 1m,PG13
+209,210,Ford v Ferrari,"https://m.media-amazon.com/images/M/MV5BM2UwMDVmMDItM2I2Yi00NGZmLTk4ZTUtY2JjNTQ3OGQ5ZjM2XkEyXkFqcGdeQXVyMTA1OTYzOTUx._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 32m,PG13
+210,211,Everything Everywhere All at Once,"https://m.media-amazon.com/images/M/MV5BYTdiOTIyZTQtNmQ1OS00NjZlLWIyMTgtYzk5Y2M3ZDVmMDk1XkEyXkFqcGdeQXVyMTAzMDg4NzU0._V1_QL75_UY281_CR2,0,190,281_.jpg",2h 19m,M18
+211,212,Rocky,"https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h,PG
+212,213,Platoon,"https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,8,190,281_.jpg",2h,NC-16
+213,214,Pather Panchali,"https://m.media-amazon.com/images/M/MV5BMmFkNDY5OTktNzY3Yy00OTFlLThhNjktOTRhMmZjZmIxYjAxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 5m,
+214,215,Stand by Me,"https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX190_CR0,9,190,281_.jpg",1h 29m,NC-16
+215,216,The Terminator,"https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 47m,M18
+216,217,Spotlight,"https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 9m,NC16
+217,218,Rush,"https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 3m,M18
+218,219,Logan,"https://m.media-amazon.com/images/M/MV5BNzY0MDYwYTMtZmNmMC00ZDNkLTk3ZWItZDk5ZjhiNDFiZjIyXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX190_CR0,3,190,281_.jpg",2h 17m,M18
+219,220,Ratatouille,"https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 51m,G
+220,221,Network,"https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_QL75_UX190_CR0,5,190,281_.jpg",2h 1m,M18
+221,222,Into the Wild,"https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UY281_CR0,0,190,281_.jpg",2h 28m,M18
+222,223,The Wizard of Oz,"https://m.media-amazon.com/images/M/MV5BNjUyMTc4MDExMV5BMl5BanBnXkFtZTgwNDg0NDIwMjE@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 42m,G
+223,224,Before Sunset,"https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_QL75_UY281_CR0,0,190,281_.jpg",1h 20m,NC-16
+224,225,Groundhog Day,"https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 41m,PG
+225,226,The Exorcist,"https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h 2m,M18
+226,227,The Best Years of Our Lives,"https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 50m,
+227,228,To Be or Not to Be,"https://m.media-amazon.com/images/M/MV5BODZlOGI5ZjYtN2UwNy00OGY0LTgxY2UtNDZhMzBkN2EyZmIyXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 39m,PG
+228,229,The Incredibles,"https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 55m,PG
+229,230,La battaglia di Algeri,"https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",2h 1m,
+230,231,Jai Bhim,"https://m.media-amazon.com/images/M/MV5BOTM0NWFjNGYtNjExMS00ZTZlLWFiYmMtZmU4ZjZkMmMxZTNjXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_QL75_UY281_CR18,0,190,281_.jpg",2h 44m,NC16
+231,232,Hachiko: A Dog's Story,"https://m.media-amazon.com/images/M/MV5BNzE4NDg5OWMtMzg3NC00ZDRjLTllMDMtZTRjNWZmNjBmMGZlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR4,0,190,281_.jpg",1h 33m,PG
+232,233,The Grapes of Wrath,"https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,0,190,281_.jpg",2h 9m,PG
+233,234,Rebecca,"https://m.media-amazon.com/images/M/MV5BYTcxYWExOTMtMWFmYy00ZjgzLWI0YjktNWEzYzJkZTg0NDdmL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY281_CR3,0,190,281_.jpg",2h 10m,
+234,235,Amores perros,"https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,1,190,281_.jpg",2h 34m,M18
+235,236,Babam ve Oglum,"https://m.media-amazon.com/images/M/MV5BNjAzMzEwYzctNjc1MC00Nzg5LWFmMGItMTgzYmMyNTY2OTQ4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR3,0,190,281_.jpg",1h 52m,NC16
+236,237,Pirates of the Caribbean: The Curse of the Black Pearl,"https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX190_CR0,1,190,281_.jpg",2h 23m,PG13
+237,238,Cool Hand Luke,"https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,5,190,281_.jpg",2h 7m,PG
+238,239,La haine,"https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,1,190,281_.jpg",1h 38m,NC16
+239,240,Les quatre cents coups,"https://m.media-amazon.com/images/M/MV5BYTQ4MjA4NmYtYjRhNi00MTEwLTg0NjgtNjk3ODJlZGU4NjRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY281_CR11,0,190,281_.jpg",1h 39m,PG
+240,241,Persona,"https://m.media-amazon.com/images/M/MV5BYmFlOTcxMWUtZTMzMi00NWIyLTkwOTEtNjIxNmViNzc2Yzc1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",1h 25m,NC-16
+241,242,It Happened One Night,"https://m.media-amazon.com/images/M/MV5BYzJmMWE5NjAtNWMyZS00NmFiLWIwMDgtZDE2NzczYWFhNzIzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,2,190,281_.jpg",1h 45m,PG
+242,243,The Handmaiden,"https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY281_CR3,0,190,281_.jpg",2h 25m,R21
+243,244,Life of Brian,"https://m.media-amazon.com/images/M/MV5BMDA1ZWI4ZDItOTRlYi00OTUxLWFlNWQtMzM5NDI0YjA4ZGI2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX190_CR0,4,190,281_.jpg",1h 34m,M18
+244,245,The Sound of Music,"https://m.media-amazon.com/images/M/MV5BODIxNjhkYjEtYzUyMi00YTNjLWE1YjktNjAyY2I2MWNkNmNmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY281_CR4,0,190,281_.jpg",2h 52m,G
+245,246,Dersu Uzala,"https://m.media-amazon.com/images/M/MV5BYWY0OWJlZTgtMWUzNy00MGJhLTk5YzQtNmY5MDEwOTIxNjMyXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 22m,PG
+246,247,Gandhi,"https://m.media-amazon.com/images/M/MV5BOGVmZGU2M2EtZTVjYy00OWU2LWI0YjEtZjQ4YjNmODhmMzhkXkEyXkFqcGdeQXVyNjk1Njg5NTA@._V1_QL75_UX190_CR0,0,190,281_.jpg",3h 11m,PG
+247,248,The Help,"https://m.media-amazon.com/images/M/MV5BYzM3NDNlMDgtMjJkOC00ODA1LTg1MTUtOGQ5NTlmMmI0MGUzXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_QL75_UX190_CR0,2,190,281_.jpg",2h 26m,PG
+248,249,Aladdin,"https://m.media-amazon.com/images/M/MV5BY2Q2NDI1MjUtM2Q5ZS00MTFlLWJiYWEtNTZmNjQ3OGJkZDgxXkEyXkFqcGdeQXVyNTI4MjkwNjA@._V1_QL75_UY281_CR1,0,190,281_.jpg",1h 30m,G
+249,250,The Iron Giant,"https://m.media-amazon.com/images/M/MV5BMTYzNjZhNDgtZjBmOC00NjNiLWFhYjQtNjE3NmUyNjAwMGUyL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX190_CR0,0,190,281_.jpg",1h 26m,PG
