@@ -1,0 +1,28 @@
+FROM ubuntu:20.04
+
+WORKDIR /home
+
+COPY ./test.ipynb ./
+
+ENV TZ=Asia/Singapore
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+ENV SPARK_HOME="/opt/spark"
+ENV PATH="$PATH:${SPARK_HOME}/bin:${SPARK_HOME}/sbin"
+ENV PYSPARK_PYTHON="/usr/bin/python3"
+
+SHELL ["/bin/bash", "-c"]
+
+RUN set -x; apt-get update \
+    && apt-get -y install wget python3 python3-pip default-jdk scala \
+    && wget "https://dlcdn.apache.org/spark/spark-3.2.4/spark-3.2.4-bin-hadoop3.2.tgz" \
+    && tar xvf spark-3.2.4-bin-hadoop3.2.tgz \
+    && mv spark-3.2.4-bin-hadoop3.2 /opt/spark \
+    && echo "start-master.sh" >> ~/.bashrc \
+    && echo "start-slave.sh spark://\$HOSTNAME:8888" >> ~/.bashrc \
+    && echo "jupyter notebook --ip 0.0.0.0 --port 5344 --no-browser --NotebookApp.token='' --NotebookApp.password='' --allow-root &> /dev/null &" >> ~/.bashrc \
+    && rm -f spark-3.2.4-bin-hadoop3.2.tgz \
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean autoclean \
+    && apt-get autoremove --yes \
+    && pip install --no-cache-dir findspark pyspark pyarrow notebook pandas \

@@ -1,0 +1,28 @@
+FROM ubuntu:18.04
+
+WORKDIR /home
+
+COPY ./test.ipynb ./
+COPY ./in.txt ./
+COPY ./wordcount.py ./
+
+ENV TZ=Asia/Singapore
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
+
+ENV SPARK_HOME="/usr/local/lib/python3.6/dist-packages/pyspark"
+ENV PYSPARK_PYTHON="/usr/bin/python3"
+ENV JAVA_HOME="/usr/lib/jvm/java-8-openjdk-amd64"
+
+
+SHELL ["/bin/bash", "-c"]
+
+RUN set -x; apt-get update \
+    && apt-get -y install openjdk-8-jdk-headless python3 python3-pip \
+    && echo "start-master.sh" >> ~/.bashrc \
+    && echo "start-slave.sh spark://\$HOSTNAME:8888" >> ~/.bashrc \
+    && echo "jupyter notebook --ip 0.0.0.0 --port 5344 --no-browser --NotebookApp.token='' --NotebookApp.password='' --allow-root &> /dev/null &" >> ~/.bashrc \
+    && python3 -m pip install --no-cache-dir pyspark==2.2.1 findspark notebook==5.7.4 pandas jupyter-client==6.1.12 tornado==5.1.1 \
+    && rm -rf /var/lib/apt/lists/* \
+    && apt-get clean autoclean \
+    && apt-get autoremove --yes \
+    
