@@ -2,7 +2,7 @@ FROM ubuntu:18.04
 
 WORKDIR /home
 
-COPY test.ipynb ./
+COPY wordCount_notebook.ipynb ./
 
 ENV TZ=Asia/Singapore
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
